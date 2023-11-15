@@ -1,5 +1,3 @@
-# DefaultCorsPoliciesNugetPackage
-
 # DefaultCorsPolicies NuGet Package
 
 [![NuGet Version](https://img.shields.io/nuget/v/DefaultCorsPolicies.svg?style=flat)](https://www.nuget.org/packages/DefaultCorsPolicies/)
